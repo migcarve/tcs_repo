@@ -1,2 +1,2 @@
 # tcs_repo
-tcs repository
+tcs repository for git commands practices
